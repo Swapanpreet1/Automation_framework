@@ -1,0 +1,112 @@
+
+
+.header
+{
+    border-bottom:solid grey;
+    border-width: thin;
+        
+  }
+
+.parent
+{
+	height :150px;
+	display:flex;
+  	}
+
+.subparent
+{
+
+	display: flex;
+	width:100%;
+}
+
+
+.common 
+{
+
+	height:100px;
+	width:100px;
+}
+
+
+
+.logo
+{
+	
+	margin-left: 150px;
+  
+
+}
+
+.empty
+{
+	width:65%;
+}
+
+.mp{
+    
+
+   margin-left: 70px;
+   /*height:85px;*/
+   margin-top: 65px;
+   font-size:25px;
+	color:black;
+}
+
+.links
+{
+   display: flex;
+   justify-content:flex-end;
+   flex-direction:row;
+    margin-top: 65px;
+    width: 300px;
+    height:75px;
+    padding-right: 10px;
+
+}
+
+
+.ftapp{
+margin-left: 155px;
+
+}
+
+
+.links,.links2{
+    font-family: "Arial";
+    /*text-decoration: none;*/
+
+}
+
+
+a:-webkit-any-link{
+text-decoration:none;
+color:grey;
+padding-right: 20px;
+
+
+}
+
+
+
+.links2{
+
+}
+
+
+
+.forms
+{
+    margin-left:800px;
+    /*height:20px;*/
+    /*display:flex;*/
+}
+
+
+
+
+.emptyclass
+{
+  height:500px;
+}
+
