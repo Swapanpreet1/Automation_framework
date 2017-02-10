@@ -1,0 +1,161 @@
+
+
+.header
+{
+    border-bottom:solid grey;
+    border-width: thin;
+        
+  }
+
+.parent
+{
+	height :150px;
+	display:flex;
+  	}
+
+.subparent
+{
+
+	display: flex;
+	width:100%;
+}
+
+
+.common 
+{
+
+	height:100px;
+	width:100px;
+}
+
+
+
+.logo
+{
+	
+	margin-left: 150px;
+  
+
+}
+
+.empty
+{
+	width:65%;
+}
+
+.mp{
+    
+
+   margin-left: 70px;
+   /*height:85px;*/
+   margin-top: 65px;
+   font-size:25px;
+	color:black;
+}
+
+.links
+{
+   display: flex;
+   justify-content:flex-end;
+   flex-direction:row;
+    margin-top: 65px;
+    width: 300px;
+    height:75px;
+    padding-right: 10px;
+
+}
+
+
+.ftapp{
+margin-left: 155px;
+
+}
+
+
+.links,.links2{
+    font-family: "Arial";
+    /*text-decoration: none;*/
+
+}
+
+
+a:-webkit-any-link{
+text-decoration:none;
+color:grey;
+padding-right: 20px;
+
+
+}
+
+
+
+.links2{
+
+}
+
+
+
+.forms
+{
+    margin-left:800px;
+    /*height:20px;*/
+    /*display:flex;*/
+}
+
+
+
+
+.emptyclass
+{
+  height:500px;
+}
+
+.listparents
+{
+ 
+ display: flex;
+ margin-left:140px;
+ color: black;
+ font-size:small;
+ padding-left: 40px;
+
+ 
+}
+
+
+.lists{
+  list-style-type: none;
+}
+
+.lborder
+{
+  background-color: #355b79;
+  height:35px;
+  display: flex;
+  font-family: "Arial";
+  color:white;
+  padding-left:120px;
+
+
+}
+
+.id4
+{
+  padding-left:50px;
+  display: flex;
+   margin:30px;
+  margin-top: 10px;
+  
+}
+
+.para
+{
+  
+  color:white;
+  padding-left:30px;
+  margin:40px;
+  margin-top: 40px;
+
+  }
+
+  
